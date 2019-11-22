@@ -8,6 +8,7 @@ project.ext {
     buildToolsVersion     = '28.0.3'
     javaVersion           = JavaVersion.VERSION_1_8
     libVersionSupport     = '1.1.0'
+    libVersionViewPager   = '1.0.0'
     libVersionMaterial    = '1.0.0'
     libVersionGmsLocation = '17.0.0'
     libVersionLombok      = '1.18.10'

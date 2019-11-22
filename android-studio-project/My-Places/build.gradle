@@ -76,6 +76,8 @@ dependencies {
     compileOnly         'androidx.annotation:annotation:'                   + project.ext.libVersionSupport        // https://mvnrepository.com/artifact/androidx.annotation/annotation
     annotationProcessor 'androidx.annotation:annotation:'                   + project.ext.libVersionSupport        // https://mvnrepository.com/artifact/androidx.annotation/annotation
 
+    implementation      'androidx.viewpager:viewpager:'                     + project.ext.libVersionViewPager      // https://mvnrepository.com/artifact/androidx.viewpager/viewpager
+
     implementation      'com.google.android.material:material:'             + project.ext.libVersionMaterial       // https://mvnrepository.com/artifact/com.google.android.material/material
 
     implementation      'com.google.android.gms:play-services-location:'    + project.ext.libVersionGmsLocation    // https://mvnrepository.com/artifact/com.google.android.gms/play-services-location
